@@ -1,0 +1,16 @@
+body{
+font-family:Arial;
+text-align:center;
+background:#111;
+color:white;
+}
+
+img{
+width:200px;
+margin-top:20px;
+border-radius:10px;
+}
+
+#movieDetails{
+margin-top:30px;
+}
