@@ -25,10 +25,4 @@ Built with **HTML, CSS, Bootstrap, and JavaScript**, this app features a clean d
 
 
 
- How to Run
 
-1. Clone or download the repository
-2. Open **index.html** in your browser
-3. Type a movie name in the search box and click **Search**
-
-Example movie names to try:
